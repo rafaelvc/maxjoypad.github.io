@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Private Area"
+AuthUserFile  /home/u324871529/public_html/.htpasswd
+Require valid-user
+
